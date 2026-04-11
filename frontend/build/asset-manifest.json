@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d409e37.css",
-    "main.js": "/static/js/main.aaa2f920.js",
+    "main.css": "/static/css/main.881b970e.css",
+    "main.js": "/static/js/main.73914b57.js",
     "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
     "static/media/My-Portfolio.png": "/static/media/My-Portfolio.6629442fe46b0decb5d4.png",
-    "static/media/About_me.jpg": "/static/media/About_me.29fc3aa2e217326e39dc.jpg",
-    "static/media/Vrushali__Resume.pdf": "/static/media/Vrushali__Resume.5024a4dad9bdaaf809e2.pdf",
+    "static/media/profile_picture.jpeg": "/static/media/profile_picture.5a19d24933f23b5c2f7b.jpeg",
+    "static/media/About_me.jpeg": "/static/media/About_me.736537c2d5fead1ab921.jpeg",
+    "static/media/Vrushali__Resume.pdf": "/static/media/Vrushali__Resume.8f18d9211c545a3beabc.pdf",
     "static/media/MSLR.png": "/static/media/MSLR.b522e71ea9004f347a18.png",
-    "static/media/profile_picture.jpg": "/static/media/profile_picture.42bcd6e1fe73973d4094.jpg",
     "static/media/Go-to-shop.png": "/static/media/Go-to-shop.cabb56952f54d681b378.png",
     "index.html": "/index.html",
-    "main.8d409e37.css.map": "/static/css/main.8d409e37.css.map",
-    "main.aaa2f920.js.map": "/static/js/main.aaa2f920.js.map",
+    "main.881b970e.css.map": "/static/css/main.881b970e.css.map",
+    "main.73914b57.js.map": "/static/js/main.73914b57.js.map",
     "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d409e37.css",
-    "static/js/main.aaa2f920.js"
+    "static/css/main.881b970e.css",
+    "static/js/main.73914b57.js"
   ]
 }
