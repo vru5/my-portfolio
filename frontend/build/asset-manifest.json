@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.881b970e.css",
-    "main.js": "/static/js/main.73914b57.js",
+    "main.css": "/static/css/main.0b7aea5a.css",
+    "main.js": "/static/js/main.453d6a41.js",
     "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
     "static/media/My-Portfolio.png": "/static/media/My-Portfolio.6629442fe46b0decb5d4.png",
     "static/media/profile_picture.jpeg": "/static/media/profile_picture.5a19d24933f23b5c2f7b.jpeg",
     "static/media/About_me.jpeg": "/static/media/About_me.736537c2d5fead1ab921.jpeg",
     "static/media/Vrushali__Resume.pdf": "/static/media/Vrushali__Resume.8f18d9211c545a3beabc.pdf",
+    "static/media/cognicare.svg": "/static/media/cognicare.d2b980e87830d8a3fc56e5d8a1df4799.svg",
     "static/media/MSLR.png": "/static/media/MSLR.b522e71ea9004f347a18.png",
     "static/media/Go-to-shop.png": "/static/media/Go-to-shop.cabb56952f54d681b378.png",
     "index.html": "/index.html",
-    "main.881b970e.css.map": "/static/css/main.881b970e.css.map",
-    "main.73914b57.js.map": "/static/js/main.73914b57.js.map",
+    "main.0b7aea5a.css.map": "/static/css/main.0b7aea5a.css.map",
+    "main.453d6a41.js.map": "/static/js/main.453d6a41.js.map",
     "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.881b970e.css",
-    "static/js/main.73914b57.js"
+    "static/css/main.0b7aea5a.css",
+    "static/js/main.453d6a41.js"
   ]
 }
